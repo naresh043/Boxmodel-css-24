@@ -1,0 +1,31 @@
+.outer{
+    background-color: darkslateblue;
+    height: 350px;
+    width: 300px;
+    border: 2px solid greenyellow;
+    margin: 30px;
+}
+.inner{
+    background-color: crimson;
+    height: 250px;
+    width: 200px;
+    padding: 20px;
+    margin: 30px;
+     
+}
+.inner1{
+    background-color: chocolate;
+    height: 100px;
+    width: 80px;
+    padding: 20px;
+    margin: 30px;
+
+}
+.inner2{
+    background-color: cornflowerblue;
+    height: 50px;
+    width: 60px;
+   
+    
+
+}
